@@ -1,6 +1,6 @@
 ## Henrique Gonçalves
 
-Informatics and Computing Engineering (L.EIC) student at FEUP — University of Porto.
+First-year master's (M.EIC) in Informatics and Computing Engineering at FEUP — University of Porto.
 
 Also active in AIESEC Porto FEP on the organising side: recruitment, team management and internal operations.
 
